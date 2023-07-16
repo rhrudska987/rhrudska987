@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Kyko's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhrudska987&show_icons=true&theme=cobalt)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhrudska987)](https://solved.ac/rhrudska987)
 
 <!--
 **rhrudska987/rhrudska987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
