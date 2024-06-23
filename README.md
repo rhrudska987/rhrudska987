@@ -28,7 +28,6 @@ Computer Science and Engineering MAR 2018 ~
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white)
 ![Google](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google&logoColor=blue)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 
 ### 🛠 Tools 🛠
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
