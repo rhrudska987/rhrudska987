@@ -6,13 +6,14 @@ Seoul National University of Science and Technology <br>
 Computer Science and Engineering MAR 2018 ~
 
 ### 👨‍💻 Project
-- [Moyeota](https://github.com/TeamFighting/MoyeoTa-Back) - 택시팟 매칭서비스
+- [Moyeota](https://github.com/TeamFighting/MoyeoTa-Back) - 택시팟 매칭 서비스
 - [Festival Holic](https://github.com/FS-2023-FestivalHolic/FH-Server) - 노원 수제 맥주 축제 전용 플랫폼
 - [STRecording](https://github.com/Solution-Challenge-stress-solution) - 감정 및 스트레스 분석 일기 앱
 
 ### 💁 Activity 
-- (23.03 ~ ) 서울과학기술대학교 과동아리 TCP 활동 중
-- (23.08 ~ ) GDSC Seoultech 3기 Member 활동 중 (Web 파트)
+- (23.03 ~ ) 서울과학기술대학교 과동아리 TCP
+- (23.08 ~ ) GDSC Seoultech 3기 Member (Web 파트)
+- (24.06 ~ ) LG U+ URECA
 
 ### :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kyko.tistory.com/)](https://kyko.tistory.com/)
