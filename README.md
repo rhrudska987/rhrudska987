@@ -63,7 +63,7 @@ Computer Science and Engineering MAR 2018 ~
 <br>
 
 ![Kyko's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhrudska987&include_all_commits=true&show_icons=true&theme=cobalt)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhrudska987)](https://solved.ac/rhrudska987)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhrudska987)](https://solved.ac/rhrudska987)
 
 
 <!--
