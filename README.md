@@ -9,6 +9,7 @@ Computer Science and Engineering MAR 2018 ~
 
 ### 💻 Dev's Log
 [![Tech Blog Badge](http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://kyko.tistory.com/)](https://kyko.tistory.com/)
+(포트폴리오 수정중)
 
 
 ### :mailbox_with_mail: Contact
