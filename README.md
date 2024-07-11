@@ -9,7 +9,6 @@ Computer Science and Engineering MAR 2018 ~
 
 ### 💻 Dev's Log
 [![Tech Blog Badge](http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://kyko.tistory.com/)](https://kyko.tistory.com/)
-[![Notion Badge](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=Notion&link=https://kyko.notion.site/Backend-Engineer-1ca500cfb36b490d91f75f82de2077a7?pvs=4)](https://kyko.notion.site/Backend-Engineer-1ca500cfb36b490d91f75f82de2077a7?pvs=4)
 
 
 ### :mailbox_with_mail: Contact
@@ -68,6 +67,9 @@ Computer Science and Engineering MAR 2018 ~
 
 <!--
 **rhrudska987/rhrudska987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![Notion Badge](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=Notion&link=https://kyko.notion.site/Backend-Engineer-1ca500cfb36b490d91f75f82de2077a7?pvs=4)](https://kyko.notion.site/Backend-Engineer-1ca500cfb36b490d91f75f82de2077a7?pvs=4)
 
 Here are some ideas to get you started:
 
