@@ -6,11 +6,14 @@
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><blockquote>
 <p dir="auto">KyungNam Ko<br>
-Seoul National University of Science and Technology, Dept. Computer Engineering (2018.03 ~ )</p>
+Seoul National University of Science and Technology, Dept. Computer Engineering (2018.03 ~ 2025.02)</p>
 </blockquote>
 
 ### 💻 Dev's Log
 [![Tech Blog Badge](http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://kyko.tistory.com/)](https://kyko.tistory.com/)
+
+### 📃 Portfolio
+[![Notion Badge](http://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://kyko.notion.site/ENGINEERING-A-BETTER-WORLD-18ece16023fd80f89c32e14066aa226c?pvs=4)](https://kyko.notion.site/ENGINEERING-A-BETTER-WORLD-18ece16023fd80f89c32e14066aa226c?pvs=4)
 
 ## 💁 Activity 
 - (23.03 ~ 25.02) 서울과학기술대학교 과동아리 TCP
@@ -27,6 +30,8 @@ Seoul National University of Science and Technology, Dept. Computer Engineering 
 |[Festival Holic](https://github.com/FS-2023-FestivalHolic/FH-Server)|노원 수제 맥주 축제 전용 플랫폼|백엔드|노원구청 우수상|
 |[STRecording](https://github.com/Solution-Challenge-stress-solution)|감정 및 스트레스 분석 일기 앱|백엔드 리드||
 
+<!--
+
 ## 📚 Tech Stack 📚
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -37,6 +42,8 @@ Seoul National University of Science and Technology, Dept. Computer Engineering 
     <br>
 </div>
 </div>
+
+-->
 
 <br>
 <!--
