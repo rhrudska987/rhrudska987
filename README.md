@@ -7,7 +7,7 @@
 <p dir="auto">I'm a backend engineer who believes engineering can make the world brighter.</p>
 </blockquote>
 
-**Links:** [Tech Blog](https://kyko.tistory.com/) | [Portfolio](https://kyko.notion.site/ENGINEERING-A-BETTER-WORLD-18ece16023fd80f89c32e14066aa226c?pvs=4)
+**Links:** [Tech Blog](https://kyko.tistory.com/) | [LinkedIn](https://www.linkedin.com/in/%EA%B2%BD%EB%82%A8-%EA%B3%A0-a702b8263/)
 
 
 
